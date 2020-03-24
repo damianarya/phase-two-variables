@@ -1,5 +1,5 @@
 /*
-*variables, data types, and typing!
+*variables, data types, and typing
  */
 let add = 1 + 2;
 let sub = 2 - 1;
